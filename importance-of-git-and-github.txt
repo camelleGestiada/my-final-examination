@@ -1,0 +1,1 @@
+- Git is a version control system that lets you manage and keep track of your source code history. The benefits of GitHub is its version control system, which allows for seamless collaboration without compromising the integrity of the original project. The projects on GitHub are examples of open-source software.
